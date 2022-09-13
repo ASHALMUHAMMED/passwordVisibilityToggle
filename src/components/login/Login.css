@@ -1,0 +1,28 @@
+.login-page{
+    background: darkslateblue;
+    height: 100vh;
+    padding-top: 150px;
+}
+.login-sec{
+    background: yellow;
+    text-align: center;
+    width: 400px;  
+}
+.username{
+   margin-bottom: 10px;
+}
+.password{
+    margin-bottom: 10px;
+    display: flex;
+    position: relative;
+ }
+ .icon{
+    color: red;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+ }
+ .login-sec button{
+    margin-bottom: 20px;
+ }
